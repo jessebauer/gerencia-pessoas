@@ -15,6 +15,6 @@ public class GerenciaPessoasApplication {
 
 	@GetMapping("/")
 	public String index() {
-		return "Olá Mundo!";
+		return "Olá Mundo!!";
 	}
 }
